@@ -1,1 +1,1 @@
-worker: node PekkaBot3.jar
+worker: java -jar target/*.jar
